@@ -15,6 +15,6 @@ This repository is meant for educational purposes only. The solutions and method
 
 - [ROP Emporium](https://ropemporium.com/) for creating and maintaining such an invaluable resource for learning binary exploitation and ROP techniques.
 - The Python and cybersecurity communities, for their endless sources of inspiration and knowledge.
-- 
+
 Happy Hacking!
 
