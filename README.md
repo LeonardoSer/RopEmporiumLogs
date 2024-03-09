@@ -1,7 +1,8 @@
 # RopEmporiumLogs
 
-Welcome to RopEmporiumLogs, a comprehensive repository where I share my journey, notes, and writeups on tackling the binary exploitation challenges over at [ROP Emporium](https://ropemporium.com/). This repository is designed to document solutions, strategies, and learning outcomes from the various challenges presented by ROP Emporium, focusing on Return-Oriented Programming.
-[ROP Emporium](https://ropemporium.com/) offers a collection of binary exploitation challenges designed to teach the techniques and nuances of Return-Oriented Programming, providing a hands-on approach to learning ROP and binary exploitation.
+Welcome to RopEmporiumLogs, a comprehensive repository where I share my journey, notes, and writeups on tackling the binary exploitation challenges over at [ROP Emporium](https://ropemporium.com/). 
+
+[ROP Emporium](https://ropemporium.com/) offers a collection of binary exploitation challenges designed to teach the techniques of Return-Oriented Programming, providing a hands-on approach to learning ROP and binary exploitation.
 
 ## Repository Structure
 
