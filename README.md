@@ -6,7 +6,10 @@ Welcome to RopEmporiumLogs, a comprehensive repository where I share my journey,
 ## Repository Structure
 
 This repository is organized by challenge names as found on ROP Emporium. Each challenge has its own writeup in Markdown format
-![image](https://github.com/LeonardoSer/RopEmporiumLogs/assets/80627086/4975b5fc-d317-4f2d-9b91-8692af0eefbf)
+
+<p align="center">
+  <img src="https://github.com/LeonardoSer/RopEmporiumLogs/assets/80627086/4975b5fc-d317-4f2d-9b91-8692af0eefbf" alt="ROP Emporium">
+</p>
 
 ## Disclaimer
 
